@@ -1,0 +1,12 @@
+h1 {
+    font-size: 32px;
+}
+p {
+    color: orange;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+
+h3 {
+    background-color: gray;
+    background-position: 5px;
+}
